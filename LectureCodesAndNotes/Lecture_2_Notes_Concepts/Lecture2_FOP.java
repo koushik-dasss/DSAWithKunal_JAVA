@@ -56,7 +56,7 @@ public class Lecture2_FOP {
 
 // Prime or not (Logic :- Square root check)
 
-/* import java.util.*;
+/*  import java.util.*;
 public class Lecture2_FOP {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
