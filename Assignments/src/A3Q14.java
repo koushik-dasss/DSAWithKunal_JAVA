@@ -1,4 +1,4 @@
-// Volume Of Cone Java Program
+/* Volume Of Cone Java Program */
 import java.util.*;
 public class A3Q14 {
     public static void main(String[] args) {
