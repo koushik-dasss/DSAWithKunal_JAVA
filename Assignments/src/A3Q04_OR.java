@@ -1,5 +1,5 @@
 import java.util.*;
-public class A3Q4_OR {
+public class A3Q04_OR {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the equal side of the isosceles triangle : " );

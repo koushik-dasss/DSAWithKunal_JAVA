@@ -1,6 +1,6 @@
 // Area Of Equilateral Triangle
 import java.util.*;
-public class A3Q7 {
+public class A3Q07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the side of the equilateral triangle : ");

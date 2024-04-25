@@ -1,6 +1,6 @@
 // Perimeter Of Circle
 import java.util.*;
-public class A3Q8 {
+public class A3Q08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter radius : ");
